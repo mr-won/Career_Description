@@ -3,8 +3,11 @@
 2. Intelligence WAFFLES (주)펜타시큐리티 웹방화벽(WAF) 로그 탐지 Log Detect 장비
 3. MFI(Multi Functional IPS) (주)시큐아이(SECUI) IPS 로그 탐지 Log Detect 장비
 4. TESS TMS WebConsole
-5. SPiDER TM (주)이글루코퍼레이션 SIEM(통합관제시스템)
-6. SPiDER TM SOAR (주)이글루코퍼레이션 (자동화 통합관제시스템) 26년 예정
+5. AhnLab EPP
+6. 알약
+7. SPiDER TM (주)이글루코퍼레이션 SIEM(통합관제시스템)
+8. SPiDER TM SOAR (주)이글루코퍼레이션 (자동화 통합관제시스템) 26년 예정
+9. HIRA SOC 사이버보안 관제센터
 
 ## 근태관리
 
