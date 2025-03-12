@@ -8,8 +8,9 @@
 7. AhnLab ESA, Privac Management 5.0
 8. MPxApp Setup
 9. SPiDER TM (주)이글루코퍼레이션 SIEM(통합관제시스템)
-10. SPiDER TM SOAR (주)이글루코퍼레이션 (자동화 통합관제시스템) 26년 예정
-11. HIRA SOC 건강보험심사평가원 본원(원주) 사이버보안 관제센터 근무
+10. SPiDER AiR 머신러닝, 딥러닝 (주)이글루코퍼레이션 생성형 Ai
+11. SPiDER TM SOAR (주)이글루코퍼레이션 (자동화 통합관제시스템) 26년 예정
+12. HIRA SOC 건강보험심사평가원 본원(원주) 사이버보안 관제센터 근무
 
 ## 근태관리
 
