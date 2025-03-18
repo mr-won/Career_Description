@@ -14,6 +14,7 @@
 
 ## 보유 자격증 Certification
 ![image](https://github.com/user-attachments/assets/8e73a108-97b5-45c5-bdec-b1b96f867274)
++컴네관2, 보안기사 추가예정
 ![image](https://github.com/user-attachments/assets/691d037b-ef23-4d25-96ea-1440e0883ef5)
 
 ## 근태관리
