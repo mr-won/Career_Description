@@ -12,7 +12,7 @@
 11. SPiDER TM SOAR (주)이글루코퍼레이션 (자동화 통합관제시스템) 26년 예정
 12. HIRA SOC 건강보험심사평가원 본원(원주) 사이버보안 관제센터 근무
 
-## 보유 자격증
+## 보유 자격증 Certification
 ![image](https://github.com/user-attachments/assets/8e73a108-97b5-45c5-bdec-b1b96f867274)
 
 
